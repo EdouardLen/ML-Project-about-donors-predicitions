@@ -15,10 +15,11 @@ Key Steps
   
   Modeling: Evaluated six machine learning models, including logistic regression, decision trees, and ensemble methods.
   
+  
   Evaluation: Selected the two best models based on their AUC scores and assessed performance using:
    
-    Lift Curves: Measured the effectiveness of targeting higher probability donors.
+  Lift Curves: Measured the effectiveness of targeting higher probability donors.
    
-    Cumulative Gains: Showcased the percentage of donors captured in each decile.
+  Cumulative Gains: Showcased the percentage of donors captured in each decile.
  
-    Classification Report: Evaluated precision, recall, and F1-score.
+  Classification Report: Evaluated precision, recall, and F1-score.
